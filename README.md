@@ -81,7 +81,7 @@ Check out My &nbsp;&nbsp; <a target="_blank" href="https://drive.google.com/file
 
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=petersatria&label=Profile%20views&color=61DBFB" width="200" alt="petersatria" />
+ <img src="https://komarev.com/ghpvc/?username=petersatria&label=Profile%20views&color=61DBFB&style=for-the-badge" width="200" alt="petersatria" />
 <br/>
  <div align="center">
    You can support my work by sharing and giving a ⭐ to my repositories
