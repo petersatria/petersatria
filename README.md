@@ -17,10 +17,6 @@ As someone who deeply appreciates the field of computer science and programming,
 Have programming experience in college, online courses such as Coursera, Udemy, etc. bootcamp in Binar Academy and Hacktiv8. 
 Having experience working with JavaScript, I would jump at any opportunity to continue growing my skillset in the other field at programming. I am willing to learn other technologies used in the company.
 <br/>
-<div align="center"> 
- <img src="https://komarev.com/ghpvc/?username=petersatria&label=Profile%20views&color=0e75b6&style=flat" alt="petersatria" />
- </div>
-<br/>
 
 
   <h2 align="center">😃 About Me</h2>
@@ -86,6 +82,8 @@ Check out My &nbsp;&nbsp; <a target="_blank" href="https://drive.google.com/file
 
 
 <p align="center">
+ <img src="https://komarev.com/ghpvc/?username=petersatria&label=Profile%20views&color=61DBFB" width="200" alt="petersatria" />
+<br/>
   You can support my work by sharing and giving a ⭐ to my repositories
  <div align="center">
    Also, you can fork the repositories if you want.
