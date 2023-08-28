@@ -25,9 +25,9 @@ Having experience working with JavaScript, I would jump at any opportunity to co
 
   <h2 align="center">😃 About Me</h2>
 
-🌱 I’m currently learning **MERN stack**
+🌱 I’m currently learning **TypeScript**
 
-💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Next.js, MongoDB**
+💬 Ask me about **JavaScript, React, React Native, Vue.js, Redux, Next.js, Express, MongoDB, PostgreSQL**
 
 📫 How to reach me **cahyaspeter@gmail.com** 📩
 
