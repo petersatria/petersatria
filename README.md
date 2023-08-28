@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-<p align='center'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=14F765&background=FFFFFF00&center=true&width=435&lines=A+Full+Stack+Web+Developer💻;A+Problem+Solver🧠"/></p>
+<p align='center'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=14F765&background=61DBFB&center=true&width=435&lines=A+Full+Stack+Web+Developer💻;A+Problem+Solver🧠"/></p>
 
 <br/>
 
@@ -25,17 +25,18 @@ Having experience working with JavaScript, I would jump at any opportunity to co
 
   <h2 align="center">😃 About Me</h2>
 
-- 🌱 I’m currently learning **MERN stack**
+🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Next.js, MongoDB**
+💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Next.js, MongoDB**
 
-- 📫 How to reach me **cahyaspeter@gmail.com** 📩
+📫 How to reach me **cahyaspeter@gmail.com** 📩
 
-- 👯 Self Motivated 🤩
+👯 Self Motivated 🤩
 
-- ⚡ Quick learner  😎 
+⚡ Quick learner  😎 
 
-- ⚡ Want to Know More About Experience: &nbsp; Check out My &nbsp;&nbsp; <a target="_blank" href="https://drive.google.com/file/d/1wQ62DhEsMtHzkyQae4jz2AEvkGU5HXLT/view?usp=sharing" ><img src="https://img.shields.io/badge/resume-%23AD1457.svg?style=for-the-badge&logo=webpack&logoColor=white" alt="resume"/></a>
+⚡ Want to Know More About Experience: &nbsp; 
+Check out My &nbsp;&nbsp; <a target="_blank" href="https://drive.google.com/file/d/1wQ62DhEsMtHzkyQae4jz2AEvkGU5HXLT/view?usp=sharing" ><img src="https://img.shields.io/badge/resume-%23AD1457.svg?style=for-the-badge&logo=webpack&logoColor=white" alt="resume"/></a>
 
 
 <br>
@@ -79,7 +80,7 @@ Having experience working with JavaScript, I would jump at any opportunity to co
 
 </div> 
 
-[![Peter's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=petersatria&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Peter's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=petersatria&theme=react&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
 
