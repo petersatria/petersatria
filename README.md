@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-<p align='center'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=14F765&background=61DBFB&center=true&width=435&lines=A+Full+Stack+Web+Developer💻;A+Problem+Solver🧠"/></p>
+<p align='center'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=61DBFB&background=FFFFFF00&center=true&width=435&lines=A+Full+Stack+Web+Developer💻;A+Problem+Solver🧠"/></p>
 
 <br/>
 
