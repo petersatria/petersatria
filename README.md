@@ -83,7 +83,7 @@ Check out My &nbsp;&nbsp; <a target="_blank" href="https://drive.google.com/file
  
 
 <div align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=petersatria&column=-1&theme=onedark&rank=-?&margin-w=0&no_frame=true" width="80%" />
+<img src="https://github-profile-trophy.vercel.app/?username=petersatria&column=-1&theme=onedark&rank=-?&margin-w=0&no-frame=true" width="80%" />
  </div>
 
 <hr>
