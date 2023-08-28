@@ -66,16 +66,13 @@ Check out My &nbsp;&nbsp; <a target="_blank" href="https://drive.google.com/file
 <br>
 
 <h2 align="center"> 🏆 GitHub Stats </h2>
-
+<div align="center" style="display: flex; ">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersatria&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
+</div> 
 
  ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=petersatria&show_icons=true&locale=en&theme=react&count_private=true&hide_border=true) | ![Peter's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=petersatria&theme=react&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000) |
 | :---: | :---: |
 
-<div align="center" style="display: flex; ">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersatria&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
-
-
-</div> 
 
 [![Peter's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=petersatria&theme=react&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
