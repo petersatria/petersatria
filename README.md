@@ -74,7 +74,7 @@ Having experience working with JavaScript, I would jump at any opportunity to co
 
 
 <div align="center" style="display: flex; ">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersatria&theme=tokyo-night&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersatria&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
 
 
 </div> 
