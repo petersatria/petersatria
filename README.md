@@ -79,7 +79,7 @@ Having experience working with JavaScript, I would jump at any opportunity to co
 
 </div> 
 
-[![Peter's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=petersatria&bg_color=62b7ad&color=ffffff&line=f7f7f7&point=144a61&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Peter's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=petersatria&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
 
