@@ -9,13 +9,12 @@
 
 <br/>
 
-
-
-  <h2 align="center"> 📝 Summary</h2>
+<h2 align="center"> 📝 Summary</h2>
 
 As someone who deeply appreciates the field of computer science and programming, I find great fulfillment in honing my skills in web development and mobile application programming. 
 Have programming experience in college, online courses such as Coursera, Udemy, etc. bootcamp in Binar Academy and Hacktiv8. 
 Having experience working with JavaScript, I would jump at any opportunity to continue growing my skillset in the other field at programming. I am willing to learn other technologies used in the company.
+<br/>
 <br/>
 
 
