@@ -67,7 +67,7 @@ Having experience working with JavaScript, I would jump at any opportunity to co
 <h2 align="center"> 🏆 GitHub Stats </h2>
 
 
- ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=petersatria&show_icons=true&locale=en&theme=tokyo-night&count_private=true) | ![Peter's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=petersatria&theme=tokyo-night&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
+ ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=petersatria&show_icons=true&locale=en&theme=react&count_private=true) | ![Peter's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=petersatria&theme=react&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
 | :---: | :---: |
 
 
