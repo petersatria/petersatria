@@ -20,7 +20,7 @@ Having experience working with JavaScript, I would jump at any opportunity to co
 
   <h2 align="center">😃 About Me</h2>
 
-🌱 I’m currently learning **TypeScript**
+🌱 I’m currently learning **Java, TypeScript**
 
 💬 Ask me about **JavaScript, React, React Native, Vue.js, Redux, Next.js, Express, MongoDB, PostgreSQL**
 
